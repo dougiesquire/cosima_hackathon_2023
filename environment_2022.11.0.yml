@@ -1,0 +1,12 @@
+name: dask-2022.11.0
+channels:
+  - coecms
+  - conda-forge
+dependencies:
+  - cartopy
+  - cmocean
+  - cosima-cookbook=0.7.3
+  - dask=2022.11.0
+  - matplotlib
+  - python=3.10.8
+  - xarray=2023.1.0
